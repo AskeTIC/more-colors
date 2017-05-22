@@ -1,0 +1,25 @@
+{
+  "name": "more-colors",
+  "version": "0.0.1",
+  "description": "More keyword colors",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AskeTIC/more-colors.git"
+  },
+  "keywords": [
+    "colors",
+    "postcss",
+    "css",
+    "preprocessor"
+  ],
+  "author": "@jonabasque",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/AskeTIC/more-colors/issues"
+  },
+  "homepage": "https://github.com/AskeTIC/more-colors#readme"
+}
